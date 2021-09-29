@@ -1,5 +1,5 @@
 <template>
-  <img src="/logo.png" />
+  <img src="/teamlogo_485.png" />
     
 </template>
 <style>
